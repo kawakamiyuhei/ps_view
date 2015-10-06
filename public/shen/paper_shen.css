@@ -1,0 +1,402 @@
+.paper {
+ position: relative;
+ margin-bottom: 10px;
+ width: 100%;
+ height: 100%;
+ z-index: 1;
+}
+
+a.align01 {
+ position: absolute;
+ top: 75%;
+ left: 7.5%;
+ width: 42%;
+ height: 16%;
+}
+a.align02 {
+ position: absolute;
+ top: 29%;
+ left: 50.1%;
+ width: 42%;
+ height: 4.5%;
+}
+a.align03 {
+ position: absolute;
+ top: 9%;
+ left: 7.5%;
+ width: 42%;
+ height: 37%;
+}
+a.align04 {
+ position: absolute;
+ top: 53%;
+ left: 50%;
+ width: 42%;
+ height: 13.4%;
+}
+a.align05 {
+ position: absolute;
+ top: 38%;
+ left: 7.5%;
+ width: 42%;
+ height: 18%;
+}
+a.align06 {
+ position: absolute;
+ top: 59%;
+ left: 7.5%;
+ width: 42%;
+ height: 22.5%;
+}
+a.align07 {
+ position: absolute;
+ top: 84.5%;
+ left: 7.5%;
+ width: 42%;
+ height: 7%;
+}
+a.align08 {
+ position: absolute;
+ top: 47.5%;
+ left: 50.1%;
+ width: 42%;
+ height: 12%;
+}
+a.align09 {
+ position: absolute;
+ top: 65%;
+ left: 7.5%;
+ width: 42%;
+ height: 3.1%;
+}
+a.align10 {
+ position: absolute;
+ top: 68.3%;
+ left: 7.5%;
+ width: 42%;
+ height: 7.2%;
+}
+a.align11 {
+ position: absolute;
+ top: 75.7%;
+ left: 7.5%;
+ width: 42%;
+ height: 15%;
+}
+a.align12 {
+ position: absolute;
+ top: 23.3%;
+ left: 50.1%;
+ width: 42%;
+ height: 9%;
+}
+a.align13 {
+ position: absolute;
+ top: 32.5%;
+ left: 50.1%;
+ width: 42%;
+ height: 18.1%;
+}
+a.align14 {
+ position: absolute;
+ top: 50.8%;
+ left: 50.1%;
+ width: 42%;
+ height: 14.5%;
+}
+a.align15 {
+ position: absolute;
+ top: 65.5%;
+ left: 50.1%;
+ width: 42%;
+ height: 25%;
+}
+a.align16 {
+ position: absolute;
+ top: 10%;
+ left: 7.5%;
+ width: 42%;
+ height: 6.3%;
+}
+a.align17 {
+ position: absolute;
+ top: 16.5%;
+ left: 7.5%;
+ width: 42%;
+ height: 7.5%;
+}
+a.align18 {
+ position: absolute;
+ top: 38%;
+ left: 7.5%;
+ width: 42%;
+ height: 53%;
+}
+a.align19 {
+ position: absolute;
+ top: 10%;
+ left: 50.1%;
+ width: 42%;
+ height: 64%;
+}
+a.align20 {
+ position: absolute;
+ top: 84.9%;
+ left: 50.1%;
+ width: 42%;
+ height: 5.5%;
+}
+a.align21 {
+ position: absolute;
+ top: 62%;
+ left: 7.5%;
+ width: 42%;
+ height: 28%;
+}
+a.align22 {
+ position: absolute;
+ top: 48.5%;
+ left: 50.1%;
+ width: 42%;
+ height: 36%;
+}
+a.align23 {
+ position: absolute;
+ top: 84.8%;
+ left: 50.1%;
+ width: 42%;
+ height: 6%;
+}
+a.align24 {
+ position: absolute;
+ top: 24.5%;
+ left: 7.5%;
+ width: 42%;
+ height: 44.5%;
+}
+a.align25 {
+ position: absolute;
+ top: 60.5%;
+ left: 50.1%;
+ width: 42%;
+ height: 30%;
+}
+a.align26 {
+ position: absolute;
+ top: 10%;
+ left: 7.5%;
+ width: 42%;
+ height: 11%;
+}
+a.align27 {
+ position: absolute;
+ top: 60.5%;
+ left: 12%;
+ width: 76%;
+ height: 22%;
+}
+a.align28 {
+ position: absolute;
+ top: 30%;
+ left: 12%;
+ width: 76%;
+ height: 62%;
+}
+a.align29 {
+ position: absolute;
+ top: 13%;
+ left: 12%;
+ width: 76%;
+ height: 19.7%;
+}
+a.align30 {
+ position: absolute;
+ top: 33%;
+ left: 12%;
+ width: 76%;
+ height: 35%;
+}
+a.align31 {
+ position: absolute;
+ top: 70%;
+ left: 12%;
+ width: 76%;
+ height: 23%;
+}
+a.align32 {
+ position: absolute;
+ top: 12.5%;
+ left: 12%;
+ width: 76%;
+ height: 34%;
+}
+a.align33 {
+ position: absolute;
+ top: 12.5%;
+ left: 12%;
+ width: 76%;
+ height: 79%;
+}
+a.align34 {
+ position: absolute;
+ top: 12.5%;
+ left: 12%;
+ width: 76%;
+ height: 79%;
+}
+a.align35 {
+ position: absolute;
+ top: 12.5%;
+ left: 12%;
+ width: 76%;
+ height: 79%;
+}
+a.align36 {
+ position: absolute;
+ top: 12.5%;
+ left: 12%;
+ width: 76%;
+ height: 30%;
+}
+a.align37 {
+ position: absolute;
+ top: 40%;
+ left: 12%;
+ width: 76%;
+ height: 53%;
+}
+a.align38 {
+ position: absolute;
+ top: 12.5%;
+ left: 12%;
+ width: 76%;
+ height: 12%;
+ }
+a.align39 {
+ position: absolute;
+ top: 25%;
+ left: 12%;
+ width: 76%;
+ height: 68%;
+}
+a.align40 {
+ position: absolute;
+ top: 12.5%;
+ left: 12%;
+ width: 76%;
+ height: 13%;
+ }
+a.align41 {
+ position: absolute;
+ top: 26%;
+ left: 12%;
+ width: 76%;
+ height: 66%;
+}
+a.align42 {
+ position: absolute;
+ top: 12.5%;
+ left: 12%;
+ width: 76%;
+ height: 16%;
+ }
+a.align43 {
+ position: absolute;
+ top: 29%;
+ left: 12%;
+ width: 76%;
+ height: 66%;
+}
+a.align44 {
+ position: absolute;
+ top: 12.5%;
+ left: 12%;
+ width: 76%;
+ height: 16%;
+ }
+a.align45 {
+ position: absolute;
+ top: 30%;
+ left: 12%;
+ width: 76%;
+ height: 54%;
+}
+a.align46 {
+ position: absolute;
+ top: 85%;
+ left: 12%;
+ width: 76%;
+ height: 8%;
+}
+a.align47 {
+ position: absolute;
+ top: 12.5%;
+ left: 12%;
+ width: 76%;
+ height: 79%;
+}
+a.align48 {
+ position: absolute;
+ top: 12.5%;
+ left: 12%;
+ width: 76%;
+ height: 67.5%;
+}
+a.align49 {
+ position: absolute;
+ top: 81%;
+ left: 12%;
+ width: 76%;
+ height: 11%;
+}
+a.align50 {
+ position: absolute;
+ top: 12.5%;
+ left: 12%;
+ width: 76%;
+ height: 79%;
+}
+a.align51 {
+ position: absolute;
+ top: 12.5%;
+ left: 12%;
+ width: 76%;
+ height: 8%;
+}
+a.align52 {
+ position: absolute;
+ top: 21%;
+ left: 12%;
+ width: 76%;
+ height: 60%;
+}
+a.align53 {
+ position: absolute;
+ top: 23%;
+ left: 12%;
+ width: 76%;
+ height: 70%;
+}
+a.align54 {
+ position: absolute;
+ top: 11.5%;
+ left: 12%;
+ width: 76%;
+ height: 58%;
+}
+a.align55 {
+ position: absolute;
+ top: 58%;
+ left: 12%;
+ width: 76%;
+ height: 34%;
+}
+
+.hideAnchor {	display:block;
+	height:0px;
+	/height:1px;
+	overflow:hidden;
+	text-indent:-9999px;
+	margin-top:-100px;
+	padding-bottom:10px;
+}
